@@ -1,3 +1,3 @@
-# PHP-FPM
+# PHP-CLI
 
-A light-weight PHP-FPM container for Docker.
+A light-weight PHP-CLI container for Docker.

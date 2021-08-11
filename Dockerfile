@@ -21,6 +21,6 @@ COPY php.ini /etc/php/7.4/fpm/php.ini
 
 COPY xdebug.ini /etc/php/7.4/mods-available/xdebug.ini
 
-EXPOSE 9000
+EXPOSE 9001
 
-CMD ["php-fpm7.4"]
+CMD ["php-cli7.4"]
